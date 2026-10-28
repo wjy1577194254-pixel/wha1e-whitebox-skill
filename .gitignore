@@ -1,0 +1,10 @@
+.DS_Store
+__MACOSX/
+__pycache__/
+*.pyc
+out/
+delivery/
+*.blend1
+out/
+delivery/
+*.blend1
